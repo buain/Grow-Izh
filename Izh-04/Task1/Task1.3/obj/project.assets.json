@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.2\\Task1.2.csproj",
-      "projectName": "Task1.2",
-      "projectPath": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.2\\Task1.2.csproj",
+      "projectUniqueName": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.3\\Task1.3.csproj",
+      "projectName": "Task1.3",
+      "projectPath": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.3\\Task1.3.csproj",
       "packagesPath": "C:\\Users\\buain\\.nuget\\packages\\",
-      "outputPath": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.2\\obj\\",
+      "outputPath": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\buain\\AppData\\Roaming\\NuGet\\NuGet.Config",
