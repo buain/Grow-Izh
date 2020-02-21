@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.6\\Task1.6.csproj": {}
+    "E:\\Izh\\Grow-Izh\\Izh-04\\Task1_20200207_Work\\Task1\\Task1.6\\Task1.6.csproj": {}
   },
   "projects": {
-    "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.6\\Task1.6.csproj": {
+    "E:\\Izh\\Grow-Izh\\Izh-04\\Task1_20200207_Work\\Task1\\Task1.6\\Task1.6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.6\\Task1.6.csproj",
+        "projectUniqueName": "E:\\Izh\\Grow-Izh\\Izh-04\\Task1_20200207_Work\\Task1\\Task1.6\\Task1.6.csproj",
         "projectName": "Task1.6",
-        "projectPath": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.6\\Task1.6.csproj",
+        "projectPath": "E:\\Izh\\Grow-Izh\\Izh-04\\Task1_20200207_Work\\Task1\\Task1.6\\Task1.6.csproj",
         "packagesPath": "C:\\Users\\buain\\.nuget\\packages\\",
-        "outputPath": "D:\\!Programming\\.NET\\Grow-Izh\\Izh-04\\Task1\\Task1.6\\obj\\",
+        "outputPath": "E:\\Izh\\Grow-Izh\\Izh-04\\Task1_20200207_Work\\Task1\\Task1.6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buain\\AppData\\Roaming\\NuGet\\NuGet.Config",

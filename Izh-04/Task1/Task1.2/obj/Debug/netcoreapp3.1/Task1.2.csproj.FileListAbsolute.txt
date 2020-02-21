@@ -1,0 +1,11 @@
+D:\Grow-Izh\Izh-04\Task1\Task1.2\obj\Debug\netcoreapp3.1\Task1.2.csprojAssemblyReference.cache
+D:\Grow-Izh\Izh-04\Task1\Task1.2\obj\Debug\netcoreapp3.1\Task1.2.AssemblyInfoInputs.cache
+D:\Grow-Izh\Izh-04\Task1\Task1.2\obj\Debug\netcoreapp3.1\Task1.2.AssemblyInfo.cs
+D:\Grow-Izh\Izh-04\Task1\Task1.2\bin\Debug\netcoreapp3.1\Task1.2.exe
+D:\Grow-Izh\Izh-04\Task1\Task1.2\bin\Debug\netcoreapp3.1\Task1.2.deps.json
+D:\Grow-Izh\Izh-04\Task1\Task1.2\bin\Debug\netcoreapp3.1\Task1.2.runtimeconfig.json
+D:\Grow-Izh\Izh-04\Task1\Task1.2\bin\Debug\netcoreapp3.1\Task1.2.runtimeconfig.dev.json
+D:\Grow-Izh\Izh-04\Task1\Task1.2\bin\Debug\netcoreapp3.1\Task1.2.dll
+D:\Grow-Izh\Izh-04\Task1\Task1.2\bin\Debug\netcoreapp3.1\Task1.2.pdb
+D:\Grow-Izh\Izh-04\Task1\Task1.2\obj\Debug\netcoreapp3.1\Task1.2.dll
+D:\Grow-Izh\Izh-04\Task1\Task1.2\obj\Debug\netcoreapp3.1\Task1.2.pdb
